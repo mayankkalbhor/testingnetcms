@@ -6009,8 +6009,8 @@ homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4, hosted-git-info@^2.6.0:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -12209,6 +12209,10 @@ type@^1.0.1:
 typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
+
+typeface-amiko@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.yarnpkg.com/typeface-amiko/-/typeface-amiko-0.0.72.tgz#916e8f8990ff3a2c64954edab10260d12aefac2b"
 
 typeface-merriweather@^0.0.72:
   version "0.0.72"
